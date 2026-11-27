@@ -1,0 +1,17 @@
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS files
+.vscode/
+.DS_Store
+
+# Tooling helper file (not part of the project)
+.ignore
