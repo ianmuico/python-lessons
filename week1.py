@@ -2,4 +2,4 @@ weight, height = float(input("Enter your weight in kilograms: ")), float(input("
 
 BMI = weight / height ** 2 #BMI calculation formula weight (kg) / height (m)^2
 
-print(f"Your BMI is {BMI:.2f}")
+print(f"Your BMI is {BMI:.2f}") #this is a git test
